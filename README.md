@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm baiku</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h1 align="center">你好 👋, 我是白裤</h1>
+<h3 align="center">一个热爱技术的中国程序员</h3>
 <div align="center">
   
 | 系列 | 简介 |
