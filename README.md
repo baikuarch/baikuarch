@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm baiku</h1>
 <h3 align="center">A passionate backend developer from China</h3>
+![rocketmq-book](https://github.com/baikuarch/baikuarch/assets/118869240/7c771859-97b5-48be-9624-0eb1cedd32ef)
 
 <!--
 **baikuarch/baikuarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
