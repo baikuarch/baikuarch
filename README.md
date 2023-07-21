@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm baiku</h1>
 <h3 align="center">A passionate backend developer from China</h3>
-![走进RocketMQ](https://github.com/baikuarch/baikuarch/assets/118869240/fac0059e-95f1-40c6-b581-1a38d8319bb2)
+<div align="center">
+  
+| 系列 | 简介 |
+| ---- | ---- |
+| ![走进RocketMQ](https://github.com/baikuarch/baikuarch/assets/118869240/fac0059e-95f1-40c6-b581-1a38d8319bb2)  | RocketMQ系列<br />主要介绍了<br />整体架构与设计、部署模式与实战<br />消息存储与消费、高性能网络通信<br />高性能文件读写、事务消息的设计  |
+| ... | ... |
+</div>
+
+
 
 <!--
 **baikuarch/baikuarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
