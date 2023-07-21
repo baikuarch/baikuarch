@@ -1,5 +1,5 @@
 <h1 align="center">你好 👋, 我是白裤</h1>
-<h3 align="center">一个热爱技术的中国程序员</h3>
+<h3 align="center">热爱技术、热爱生活</h3>
 <div align="center">
   
 | 内容系列 | 简介 |
