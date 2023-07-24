@@ -4,7 +4,7 @@
   
 | 内容系列 | 简介 |
 | ---- | ---- |
-| ![rocketmq-book](https://github.com/baikuarch/baikuarch/assets/118869240/75c1bb9a-8520-4ba1-b4c5-6a2bd4806457) | RocketMQ系列 [立即进入->](https://github.com/baikuarch/blog/issues/1)<br />整体架构与设计、部署模式与实战<br />消息存储与消费、高性能网络通信<br />高性能文件读写、事务消息的设计  |
+| ![rocketmq-book](https://github.com/baikuarch/baikuarch/assets/118869240/584d8c67-e9b9-4aba-8693-32b606d3a1a8) | RocketMQ系列 [立即进入->](https://github.com/baikuarch/blog/issues/1)<br />整体架构与设计、部署模式与实战<br />消息存储与消费、高性能网络通信<br />高性能文件读写、事务消息的设计  |
 | ... | ... |
 | ... | ... |
 </div>
